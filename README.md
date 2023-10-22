@@ -1,4 +1,4 @@
-# Cactus
+# Forked from Cactus
 
 A responsive, clean and simple [Hexo](http://hexo.io) theme for a personal website.
 
